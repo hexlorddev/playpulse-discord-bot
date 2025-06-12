@@ -200,7 +200,7 @@ bun run start
 ```bash
 # Enable AI features
 export OPENAI_API_KEY="your-openai-key"
-export CLAUDE_API_KEY="your-claude-key"
+export  
 
 # Configure multi-cloud providers
 export AWS_ACCESS_KEY="your-aws-key"
@@ -224,7 +224,7 @@ DISCORD_CLIENT_ID=your_client_id
 
 # AI & Machine Learning
 OPENAI_API_KEY=your_openai_key
-CLAUDE_API_KEY=your_claude_key
+ 
 GOOGLE_AI_KEY=your_google_ai_key
 
 # Multi-Cloud Integration
